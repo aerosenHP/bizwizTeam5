@@ -1,0 +1,21 @@
+/* home css*/
+
+.navbar {
+	border-bottom: 1px solid gray;
+}
+
+.heading {
+	text-align: center;
+}
+.box {
+    border: 1px solid #DDD;
+    width: 200px;
+    height: 150px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+
+.box h5 {
+	margin-top:5%;
+}
