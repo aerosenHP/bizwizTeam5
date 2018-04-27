@@ -4,18 +4,6 @@
     src: url(../resources/HP_Simplified/*);
 }
 
-.box {
-    border: 1px solid #DDD;
-    width: 200px;
-    height: 150px;
-    margin: 0 auto;
-    text-align: center;
-}
-
-.box h5 {
-	margin-top:5%;
-}
-
 .container {
 	margin-bottom: 0%;
 }
@@ -81,7 +69,7 @@
 }
 
 .skinny img {
-	margin-top: -5%;
+	margin-top: -3%;
 	margin-right: 5%;
 }
 .skinny p {
@@ -93,5 +81,11 @@
 	padding-top: 1%;
 	padding-bottom: 1%;
 	background-color: #e9e7e7;
+}
 
+
+
+/* font editing */
+.name {
+	font-weight: bold;
 }
