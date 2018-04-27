@@ -1,8 +1,5 @@
 /* home css*/
 
-.heading {
-	text-align: center;
-}
 .box {
     border: 1px solid #DDD;
     width: 200px;
@@ -14,4 +11,17 @@
 
 .box h5 {
 	margin-top:5%;
+}
+
+.butt {
+     background:none!important;
+     color:inherit;
+     border:none; 
+     padding:0!important;
+     font: inherit;
+     cursor: pointer;
+}
+
+.modal-body {
+	text-align: left;
 }

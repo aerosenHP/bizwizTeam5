@@ -4,3 +4,8 @@
 	border-bottom: 1px solid gray;
 	background-color: white;
 }
+
+.heading {
+	text-align: center;
+	margin: 3%;
+}

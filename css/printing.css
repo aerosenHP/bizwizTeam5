@@ -1,0 +1,13 @@
+/* printing css */
+
+.box {
+    border: 1px solid #DDD;
+    width: 200px;
+    height: 150px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.box h5 {
+	margin-top:5%;
+}
