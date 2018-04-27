@@ -15,6 +15,10 @@
 .fas {
 	color: #f6d147;
 }
+.learn {
+	display: block;
+	margin: auto;
+}
 .one {
 	float:left;
 	width: 40%;
@@ -24,4 +28,32 @@
 .two {
 	float: left;
 	margin-right: 2%;
+}
+
+.three {
+	float: left;
+	width: 40%;
+}
+.info {
+	display: inline-block;
+}
+
+.skinny {
+	padding-right: 5%;
+	padding-left: 5%;
+}
+
+.skinny img {
+	margin-top: -5%;
+}
+.skinny p {
+	padding-right: 12%;
+}
+.colored {
+	clear:left;
+	margin-top: 5%;
+	padding-top: 1%;
+	padding-bottom: 1%;
+	background-color: #e9e7e7;
+
 }
