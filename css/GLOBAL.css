@@ -5,11 +5,28 @@
 	background-color: white;
 }
 
+.navbar-nav {
+    float:none;
+    margin:0 auto;
+    display: block;
+    text-align: center;
+}
+
+.navbar-nav > li {
+    display: inline-block;
+    float:none;
+}
 .heading {
 	text-align: center;
 	margin: 3%;
 }
 
+.search {
+	float: right;
+}
 .logo {
-	width: 60%;
+	float: left;
+	position: absolute;
+	width: 2%;
+	top:15px;
 }

@@ -1,11 +1,13 @@
 /* home css*/
 
 .box {
+    margin-top: 10%;
     border: 1px solid #DDD;
-    width: 200px;
+    width: 250px;
     height: 150px;
     margin: 0 auto;
     text-align: center;
+    box-shadow: 0.5px 0.866px 6px 0px rgba(0, 0, 0, 0.39);
 }
 
 
@@ -28,4 +30,25 @@
 
 .fa-3x {
 	margin-bottom: 3%;
+}
+
+
+/* colors for icons */
+.fa-info {
+    color: #bc79d0;
+}
+.fa-dollar-sign {
+    color: #36d16d;
+}
+.fa-user {
+    color: #3475ac;
+}
+.fa-calendar-alt {
+    color: #0096d6;
+}
+.fa-print {
+    color: #ac8634;
+}
+.fa-cloud {
+    color: #7f7d79;
 }

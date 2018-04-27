@@ -15,8 +15,9 @@
 .box h5 {
 	margin-top:5%;
 }
+
 .container {
-	margin-bottom: -2%;
+	margin-bottom: 0%;
 }
 
 .fa-star {
@@ -44,6 +45,18 @@
 
 .five {
 	float: left;
+}
+
+.last {
+	float: left;
+}
+
+.bottom {
+	display: inline-block;
+	padding-bottom: 7%;
+}
+.bottom img {
+	margin-right: 5%;
 }
 
 .info {
