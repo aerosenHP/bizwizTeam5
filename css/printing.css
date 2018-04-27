@@ -12,7 +12,7 @@
 	margin-top:5%;
 }
 
-.fas {
+.fa-star {
 	color: #f6d147;
 }
 .learn {
@@ -34,6 +34,7 @@
 	float: left;
 	width: 40%;
 }
+
 .info {
 	display: inline-block;
 }
@@ -45,9 +46,10 @@
 
 .skinny img {
 	margin-top: -5%;
+	margin-right: 5%;
 }
 .skinny p {
-	padding-right: 12%;
+	padding-right: 10%;
 }
 .colored {
 	clear:left;
