@@ -15,3 +15,13 @@
 .fas {
 	color: #f6d147;
 }
+.one {
+	float:left;
+	width: 40%;
+	margin-right: 3%;
+}
+
+.two {
+	float: left;
+	margin-right: 2%;
+}
