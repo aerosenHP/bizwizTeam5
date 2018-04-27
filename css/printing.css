@@ -1,4 +1,8 @@
 /* printing css */
+@font-face {
+    font-family: HP_Simp;
+    src: url(../resources/HP_Simplified/*);
+}
 
 .box {
     border: 1px solid #DDD;
@@ -55,6 +59,7 @@
 .test img {
 	margin-right: 4%;
 }
+
 
 .skinny {
 	padding-right: 5%;
