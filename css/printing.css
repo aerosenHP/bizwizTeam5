@@ -11,6 +11,9 @@
 .box h5 {
 	margin-top:5%;
 }
+.container {
+	margin-bottom: -2%;
+}
 
 .fa-star {
 	color: #f6d147;
@@ -21,8 +24,8 @@
 }
 .one {
 	float:left;
-	width: 40%;
-	margin-right: 3%;
+	width: 30%;
+	margin-right: 5%;
 }
 
 .two {
@@ -32,16 +35,31 @@
 
 .three {
 	float: left;
-	width: 40%;
+	width: 30%;
+}
+
+.five {
+	float: left;
 }
 
 .info {
 	display: inline-block;
+	margin-top: 4%;
+}
+
+.test {
+	padding-top: 5%;
+	display: inline-block;
+}
+
+.test img {
+	margin-right: 4%;
 }
 
 .skinny {
 	padding-right: 5%;
 	padding-left: 5%;
+	margin-bottom: 2%;
 }
 
 .skinny img {
@@ -49,7 +67,7 @@
 	margin-right: 5%;
 }
 .skinny p {
-	padding-right: 10%;
+	padding-right: 5%;
 }
 .colored {
 	clear:left;
