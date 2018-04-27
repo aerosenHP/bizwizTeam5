@@ -6,7 +6,7 @@
 }
 
 .container {
-	margin-bottom: 0%;
+	margin-bottom: 1%;
 }
 
 .fa-star {
@@ -62,7 +62,6 @@
 }
 
 .test {
-	padding-top: 5%;
 	display: inline-block;
 }
 
